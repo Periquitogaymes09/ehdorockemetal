@@ -1,5 +1,19 @@
 body { 
     background-color: #430a66;
 background-image: linear-gradient(135deg, #430a66 0%, #2e125e 50%, #0a2975 100%);
+;
 
+}
+
+header {
+display: flex;
+justify-content: center;
+}
+.nav-lista{
+    display: flex;
+    list-style: none;
+    font-size: 40px;
+    gap: 28px;
+    text-transform: uppercase;
+    justify-content: center;
 }
