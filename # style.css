@@ -1,6 +1,6 @@
-body { 
-    background-color: #430a66;
-background-image: linear-gradient(135deg, #430a66 0%, #2e125e 50%, #0a2975 100%);}
+body { background-color: #1c0445;
+    background-image: linear-gradient(0deg, #1c0445 0%, #7f31e2 50%, #a271e8 100%);
+}
 
 header {
 display: flex;
