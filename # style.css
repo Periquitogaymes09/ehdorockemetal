@@ -14,3 +14,9 @@ justify-content: center;
     text-transform: uppercase;
     justify-content: center;
 }
+
+
+.nav-item:hover {
+ cursor:pointer;
+ 
+}
